@@ -1,0 +1,5 @@
+*.pyc
+*__pycache__
+*env.py
+*Procfile
+*discord.db
